@@ -23,8 +23,8 @@ Project One requires a minimum of eight rooms.
 4. Communications Room
 5. Storage Room
 6. Science lab
-7. Medical 
-8. Alien Domain (Villain room)
+7. Medical Room
+8. Gorgan's Domain (Villain room)
 
 Add more rooms if your design needs them.
 
